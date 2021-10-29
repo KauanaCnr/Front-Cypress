@@ -1,0 +1,10 @@
+{
+	"#schema":"https://on.cypress.io/cypress.schema.json",
+	"video":false,
+	"videosFolder":"Cypress/videos",
+	"viewporWidth": 100 ,
+	"viewportWigth": 900,
+	"chormeWebSecurity":false,
+	"numTestsKeeptInMemory": 5,
+	"screenshotsFolders":"reports/screenshots"
+}
